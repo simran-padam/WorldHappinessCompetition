@@ -1,0 +1,2 @@
+# WorldHappinessCompetition
+World Happiness Classification
